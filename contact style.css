@@ -1,0 +1,38 @@
+div{
+    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 400px;
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+.footer{
+    text-align: left;
+    margin-left: none;
+    display: inline;   
+}
+ .footer__title a:hover{            /* or simply put a:hover{} */
+    background-color: black;
+    color: aliceblue;
+}
+button{
+    margin-left: 60px;
+}
+button:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.last{
+    padding-left: none;
+    background-color: brown;
+    display: inline;
+    margin-left: 50px;
+}
+.last1:hover{
+    border: none;
+    border-bottom: solid black 2px;
+}
+
